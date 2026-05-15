@@ -56,6 +56,5 @@ O projeto foi desenvolvido de forma incremental, com foco em aprendizado. A estr
 
 ## 🚀 Como executar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+1. Baixe o arquivo .exe
+2. Execute normalmente no seu computador :)
