@@ -1,0 +1,14 @@
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\bin\Debug\net10.0\Concessionaria.exe
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\bin\Debug\net10.0\Concessionaria.deps.json
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\bin\Debug\net10.0\Concessionaria.runtimeconfig.json
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\bin\Debug\net10.0\Concessionaria.dll
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\bin\Debug\net10.0\Concessionaria.pdb
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.AssemblyInfoInputs.cache
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.AssemblyInfo.cs
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.csproj.CoreCompileInputs.cache
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.dll
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\refint\Concessionaria.dll
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.pdb
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\Concessionaria.genruntimeconfig.cache
+C:\Michely\projetos\concessionaria em C\Concessionaria\Concessionaria\obj\Debug\net10.0\ref\Concessionaria.dll
